@@ -5,6 +5,9 @@ A pretrained automatic speech recognition (ASR) model in Pytorch, capatable for 
 Windows, Linux
 ## Run demo
 Setup python environment
+
 ```pip install -r requirements.txt```
+
 Run demo
+
 ```python try_model.py```
