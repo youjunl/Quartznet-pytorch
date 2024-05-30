@@ -1,6 +1,6 @@
 # Quartznet-pytorch
 ## Introduction
-A pretrained automatic speech recognition (ASR) model in Pytorch, capatable for multi-platform application
+QuartzNet is a end-to-end a lightweight end-to-end speech recognition model. This repository provides pretrained QuartzNet5x15 model in Pytorch, capatable for multi-platform application
 ## Supported platform
 Windows, Linux
 ## Run demo
